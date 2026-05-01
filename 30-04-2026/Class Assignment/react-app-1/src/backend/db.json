@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "7bfFoRAO1vU",
+      "city": "Ramgudh"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "rZ9PPY20m64"
+    }
+  ],
+  "users": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
